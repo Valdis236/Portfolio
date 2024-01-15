@@ -1,6 +1,6 @@
 # Изучение закономерностей, определяющих успешность игр
 
-[md](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.md)    [ipynb](https://github.com/aq2003/Portfolio/blob/main/Analyzing%20Texts/P13_Portfolio.ipynb)
+[ipynb](https://github.com/Valdis236/Portfolio/blob/main/Game_analysis/Game_analysis.ipynb)
 
 ## Описание проекта
 
