@@ -1,7 +1,7 @@
 # Проверка гипотез по увеличению выручки в интернет-магазине —
 оценить результаты A/B теста
 
-[ipynb](https://github.com/Valdis236/Portfolio/blob/main/Game_analysis/Game_analysis.ipynb)
+[ipynb](https://github.com/Valdis236/Portfolio/blob/main/Shop_hypotheses/Shop_hypotheses.ipynb)
 
 ## Описание проекта
 
